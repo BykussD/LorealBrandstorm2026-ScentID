@@ -22,3 +22,7 @@ High Accuracy: Achieved a 75% accuracy rate in predicting the correct fragrance 
 Consumer Behavior: Successfully reduced decision-making time while increasing user engagement and the sense of belonging.
 
 Scalability: Built as a digital-first, low-marginal-cost solution accessible to anyone with a smartphone.
+
+
+**Berk** | Data Scientist / Lead | [@BykussD](https://github.com/BykussD) |
+| **Nur** | AI & Data Engineer | [@KullaniciAdi](https://github.com/KullaniciAdi)
