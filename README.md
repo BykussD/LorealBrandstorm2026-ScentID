@@ -25,5 +25,5 @@ Scalability: Built as a digital-first, low-marginal-cost solution accessible to 
 
 
 **Berk** | Data Scientist / Lead | [@BykussD](https://github.com/BykussD) |
-| **Nur** | AI & Data Engineer | [@nurarkng](https://github.com/nurarkn)
+| **Nur** | AI & Data Engineer | [@nurarkn](https://github.com/nurarkn)
 
