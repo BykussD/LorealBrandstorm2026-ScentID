@@ -17,7 +17,7 @@ from sklearn.svm import SVC
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.tree import DecisionTreeClassifier
 
-# ================= 1. VERİ YÜKLEME VE TEMİZLİK =================
+# 1. VERİ YÜKLEME VE TEMİZLİK
 anket_yolu = "/Users/berkbey/Desktop/Project S.I.D/Pafume user data.csv"
 parfum_db_yolu = "/Users/berkbey/Desktop/Project S.I.D/Perfumes_dataset.csv"
 
